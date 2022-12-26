@@ -13,6 +13,5 @@ public class TV implements Remocon {
 	public static void main(String[] args) {
 		Remocon r = new TV();
 		r.powerOn();
-		System.out.println("한번더");
 	}
 }
