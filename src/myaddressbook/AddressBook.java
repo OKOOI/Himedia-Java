@@ -32,8 +32,6 @@ public class AddressBook {
 			if (person != null) {
 				person.print();
 			}
-			System.out.println("test");
-			System.out.println("testJUN");
 		}		
 	}
 }
